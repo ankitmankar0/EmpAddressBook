@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\bin\Debug\net5.0\EmpMultipleComp.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\bin\Debug\net5.0\EmpMultipleComp.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\bin\Debug\net5.0\EmpMultipleComp.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\bin\Debug\net5.0\EmpMultipleComp.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\bin\Debug\net5.0\EmpMultipleComp.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\bin\Debug\net5.0\EmpMultipleComp.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\EmpMultipleComp.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\EmpMultipleComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\EmpMultipleComp.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\EmpMultipleComp.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\EmpMultipleComp.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\EmpMultipleComp.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\refint\EmpMultipleComp.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\EmpMultipleComp.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\EmpMultipleComp.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\emppart3\EmpMultipleComp\EmpMultipleComp\obj\Debug\net5.0\ref\EmpMultipleComp.dll
