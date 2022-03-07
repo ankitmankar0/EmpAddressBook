@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "HLWLygwqN7zLqS4zNm1zYk+Va7fxZx0De11j61uVRl9sYOm/cJ0u/6VwYB7Icx7+eqTnkn9BLqZqHNS/GBX+gw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\DAY 9\\EmpMultipleComp\\EmpMultipleComp\\EmpMultipleComp.csproj",
+=======
+  "dgSpecHash": "UltHoplPsIT6LqDJ/dJ1jh7cxfsZTRQMgtyO0Rjof2HhnVsUsR1cS4qAvSx/UfSp5/6QF5cVVXIMvUgSvcP8yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ankit\\Desktop\\bridgelab\\.Net\\emppart3\\EmpMultipleComp\\EmpMultipleComp\\EmpMultipleComp.csproj",
+>>>>>>> 54dc30ef474fc46c8099b68b7dc1d57ad48a9368
   "expectedPackageFiles": [],
   "logs": []
 }
